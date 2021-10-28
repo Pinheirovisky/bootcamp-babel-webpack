@@ -36,4 +36,5 @@ webpack -w
 -------
 ## Agradecimentos
 
-Agradeço toda a equipe da [DXC](https://dxc.com/br/pt) pela oportunidade de trazer conteúdo de Javascript em suas apresentações do Bootcamp
+Agradeço toda a equipe da [DXC](https://dxc.com/br/pt) pela oportunidade de trazer conteúdo de Javascript em suas apresentações do Bootcamp.<br />
+Agradeço também ao Luiz Otávio Miranda e seu [curso de ReactJS](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/).
